@@ -1,0 +1,14 @@
+#table {
+    height: 150px;
+   width: 300px;
+    position: absolute;
+left: 400px;
+    top: 250px;
+}
+#nav {
+    height: 150px;
+    width: 300px;
+    position: absolute;
+    left: 440px;
+    top: 420px;
+}
